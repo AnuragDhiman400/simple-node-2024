@@ -8,9 +8,4 @@ async function main() {
     await sleep(5000);
   }
 }
-
-
-
-
-
 main();
